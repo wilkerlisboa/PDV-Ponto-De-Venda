@@ -21,6 +21,8 @@ Instale o Python acessando o site oficial
 <p>Você vai baixar o diretorio aqui com os arquivo e vai no seu terminal usando a navegação dentro do terminal até o repositório, execute os seguintes comandos dentro da pasta do diretorio no terminal</p>
 
     $ py "nome do arquivo que vai ser executado.py"
+
+<p>O arquivo final a ser executado está com o nome "echo"</p>
     
 <h4>Autores</h4>
 
