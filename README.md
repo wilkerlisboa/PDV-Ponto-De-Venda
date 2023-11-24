@@ -15,7 +15,6 @@ Instale o Python acessando o site oficial
 <p>Agora execute os seguintes comando no terminal</p>
 
     $ python --version
-    $ python
     
 <h3>Iniciar o aplicativo</h3>
 
