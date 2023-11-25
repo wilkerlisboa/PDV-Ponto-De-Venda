@@ -1,5 +1,5 @@
 ![image 21](https://github.com/wilkerlisboa/PDV-Ponto-De-Venda./assets/73085812/6c6cf4e3-a4b4-4172-bd67-9eebaeed6878)
-<h1>PDV-Ponto-De-Venda</h1>
+<h1 align="center">PDV-Ponto-De-Venda</h1>
 
 <p>O PDV, sigla para ponto de venda, que pode ser tanto um lugar físico quanto online, onde são comercializados produtos e serviços, é uma ferramenta que ajuda a facilitar a rotina de vendas dos negócios. Conhecido também como sistema de frente de caixa, o PDV é um sistema que registra todas as vendas que acontecem em seu negócio, além de emitir notas e cupons fiscais. É considerado um sistema completo para a gestão de vendas, pois permite que você não só registre as transações, mas também consiga oferecer diferentes meios de pagamento, integrar com outras áreas do negócio e muito mais. </P>
 
