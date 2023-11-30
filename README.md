@@ -28,7 +28,7 @@ Instale o Python acessando o site oficial
 
 <p>O desenvolvimento da aplicação foi feita pelo alunos de Ciência da Computação do Centro Educacional Anhanguera no câmpus Macapá. Prestanto um serviço privado para uma empresa de vendas de peças de marmore na região local.</p>
 
-    Aluno: Wilker Lisboa Soares Da Silva
+    Aluno: <a>Wilker Lisboa Soares Da Silva</a>
     Email: wilkersoares.wl@gmail.com
     
     Aluno: Igor Brito Da Silva
